@@ -48,7 +48,7 @@ export default function Home() {
       </navbar>
 
       <section className='justify-start w-full px-[20px] py-[60px]'>
-        <h1 className='col-span-1 text-[170px] font-bold ml-[50px] pb-0'>Welcome! I'm a</h1>
+        <h1 className='col-span-1 text-[170px] font-bold ml-[50px] pb-0'>Welcome! I am a</h1>
           <div className='flex flex-row justify-between items-center ml-[80px]'>
             <h1 className='col-span-5 text-[170px] font-bold'>
             <Typewriter
@@ -89,7 +89,7 @@ export default function Home() {
 
         <section className='flex justify-between pt-[70px] ml-[50px]'>
           <div>
-            <h3 className='text-[30px] font-bold'>Let's Talk!</h3>
+            <h3 className='text-[30px] font-bold'>Reach Out!</h3>
             <p className='text-[20px] font-thin'>
             <Link href={`mailto:langi.creative@gmail.com`}> 
               langi.creative@gmail.com
@@ -129,7 +129,7 @@ export default function Home() {
               </svg>
               <h3>Web Development</h3>
               <p className="font-thin">
-              With a passion for clean, functional design and a knack for coding, I'm here to bring your web vision to life. From responsive layouts to seamless navigation, I specialize in creating websites that not only look fantastic but also perform flawlessly. 
+              With a passion for clean, functional design and a knack for coding, I am here to bring your web vision to life. From responsive layouts to seamless navigation, I specialize in creating websites that not only look fantastic but also perform flawlessly. 
               </p>
               </article>
               </li>
@@ -153,8 +153,8 @@ export default function Home() {
               cinematographer, I have a deep appreciation for capturing the<br/>
               essence of a moment, a brand, or a narrative. My lens becomes<br/>
               the window to your imagination, ensuring your vision is brought<br/>
-              to life on screen. Whether it's a short film, commercial, or<br/>
-              documentary, I'm dedicated to translating your concepts into<br/>
+              to life on screen. Whether it is a short film, commercial, or<br/>
+              documentary, I am dedicated to translating your concepts into<br/>
               visually compelling, emotion-evoking cinema.
               </p>
               </article>  
@@ -196,7 +196,7 @@ export default function Home() {
             </svg>
               <h3>Branding</h3>
               <p className="font-thin">
-              Building a brand that resonates is an art, and I'm your<br/>  
+              Building a brand that resonates is an art, and I am your<br/>  
               artistic ally. My mission is to help you shape and maintain<br/> 
               the brand of your dreams. With a sharp eye for design, a <br/> 
               penchant for strategy, and a commitment to authentic <br/> 
@@ -210,7 +210,7 @@ export default function Home() {
         </section>
 
         <section className='pt-[100px]'>
-          <h1 className='flex justify-center items-center text-[170px] '>Let's talk!</h1>
+          <h1 className='flex justify-center items-center text-[170px] '>Reach Out!</h1>
           <div className='flex justify-center items-center'> 
           <button 
           type='button'
