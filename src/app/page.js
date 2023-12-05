@@ -64,12 +64,14 @@ export default function Home() {
                 <Link
                 href='https://twitter.com/langi_creative'>
                 <Image
+                alt='twitter'
                 src={twitter}
                 className='w-[30px] h-[28px]'/>
                 </Link>
                 <Link
                 href='https://instagram.com/langi_creative'>
                 <Image
+                alt='instagram'
                 src={instagram}
                 className='w-[30px] h-[28px]'
                 />
@@ -77,6 +79,7 @@ export default function Home() {
                 <Link
                 href='https://www.linkedin.com/in/abdulrahman-omboke/'>
                 <Image
+                alt='linkedin'
                 src={linkedin}
                 className='w-[30px] h-[28px]'
                 />
